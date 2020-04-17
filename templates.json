@@ -1,0 +1,57 @@
+[
+    {
+        "template": "csharp",
+        "platform": "x86_64",
+        "language": "C#",
+        "source": "openfaas",
+        "description": "Classic C# template",
+        "repo": "https://github.com/openfaas/templates",
+        "official": "true"
+    },
+    {
+        "template": "dockerfile",
+        "platform": "x86_64",
+        "language": "Dockerfile",
+        "source": "openfaas",
+        "description": "Classic Dockerfile template",
+        "repo": "https://github.com/openfaas/templates",
+        "official": "true"
+    },
+    {
+        "template": "dockerfile-armhf",
+        "platform": "armhf",
+        "language": "Dockerfile",
+        "source": "openfaas",
+        "description": "Classic Dockerfile armhf template",
+        "repo": "https://github.com/openfaas/templates",
+        "official": "true"
+    },
+    {
+        "template": "go-armhf",
+        "platform": "armhf",
+        "language": "Go",
+        "source": "openfaas",
+        "description": "Classic Golang armhf template",
+        "repo": "https://github.com/openfaas/templates.git",
+        "official": "true"
+    },
+    {
+        "template": "go",
+        "platform": "x86_64",
+        "language": "Go",
+        "source": "openfaas",
+        "description": "Classic Golang template",
+        "repo": "https://github.com/openfaas/templates",
+        "official": "true"
+    },
+    {
+        "template": "java8",
+        "platform": "x86_64",
+        "language": "Java",
+        "source": "openfaas",
+        "description": "Classic Java 8 template",
+        "repo": "https://github.com/openfaas/templates",
+        "official": "true"
+    },
+  
+]
