@@ -52,6 +52,5 @@
         "description": "Classic Java 8 template",
         "repo": "https://github.com/openfaas/templates",
         "official": "true"
-    },
-  
+    } 
 ]
