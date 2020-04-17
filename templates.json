@@ -1,14 +1,5 @@
 [
     {
-        "template": "csharp",
-        "platform": "x86_64",
-        "language": "C#",
-        "source": "openfaas",
-        "description": "Classic C# template",
-        "repo": "https://github.com/openfaas/templates",
-        "official": "true"
-    },
-    {
         "template": "dockerfile",
         "platform": "x86_64",
         "language": "Dockerfile",
@@ -266,7 +257,7 @@
         "language": "Go",
         "source": "openfaas-incubator",
         "description": "Golang HTTP armhf template",
-        "repo": "https://github.com/openfaas-incubator/golang-http-template",
+        "repo": "https://git.altemista.cloud/carnheiter/golang-http-template",
         "official": "true"
     },
     {
@@ -275,7 +266,7 @@
         "language": "Go",
         "source": "openfaas-incubator",
         "description": "Golang HTTP template",
-        "repo": "https://github.com/openfaas-incubator/golang-http-template",
+        "repo": "https://git.altemista.cloud/carnheiter/golang-http-template",
         "official": "true"
     },
     {
