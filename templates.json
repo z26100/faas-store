@@ -266,7 +266,7 @@
         "language": "Go",
         "source": "openfaas-incubator",
         "description": "Golang HTTP template",
-        "repo": "https://git.altemista.cloud/carnheiter/golang-http-template",
+        "repo": "https://github.com/z26100/golang-http-template",
         "official": "true"
     },
     {
@@ -275,7 +275,7 @@
         "language": "Go",
         "source": "openfaas-incubator",
         "description": "Golang Middleware armhf template",
-        "repo": "https://github.com/openfaas-incubator/golang-http-template",
+        "repo": "https://github.com/z26100/golang-http-template",
         "official": "true"
     },
     {
@@ -284,7 +284,7 @@
         "language": "Go",
         "source": "openfaas-incubator",
         "description": "Golang Middleware template",
-        "repo": "https://github.com/openfaas-incubator/golang-http-template",
+        "repo": "https://github.com/z26100/golang-http-template",
         "official": "true"
     },
     {
